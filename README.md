@@ -39,8 +39,8 @@ to download them so you can complete the playlist.
   The script will cycle through every song in the playlist, and search for a song with a matching title in your iTunes library.
   If you have a matching song in iTunes, it will be added to the iTunes playlist.
   
-- Once complete, the script will provide a list of URL's to songs that were missing in your iTunes library.
-  These song url's are automatically copied to the clipboard, and can be pasted into sidify to grab songs that you're missing.
+- Once complete, the script will provide a list of URI's to songs that were missing in your iTunes library.
+  These can be pasted into sidify to grab songs that you're missing.
 
 ## Speed limit
   The Spotify API hard limits the script at 100 tracks, if the script operates too fast.
