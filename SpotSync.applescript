@@ -3,7 +3,7 @@
 This script syncronises spotify playlists to iTunes.
 It does NOT download or transfer songs
 
-Made by Jordan T. Gray. http://shinkson47.in
+Made by Jordan T. Gray. http://jordantgray.uk
 License : Idk man, just don't be a cunt with it, yeah?
 
 
