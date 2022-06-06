@@ -13,6 +13,8 @@ to download them so you can complete the playlist.
 ## Requirements : 
 
  - Mac OS
+   (Tested on Sierra and High Sierra only)
+   
  - iTunes installed ; **not Apple Music**
  - Spotify installed
 
