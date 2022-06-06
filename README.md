@@ -2,13 +2,13 @@
 
 An Applescript which re-creates Spotify playlists within iTunes.
 
-This script does NOT download or transfer songs, it just creates playlists
-with the same songs.
+**This script does NOT download or transfer songs, it creates playlists in iTunes with songs
+that are already in your library.**
 
-Though it does not download the songs, it does provide a list of
+Although it does not download the songs, it does provide a list of
 all songs that aren't in your iTunes Library, which can be pasted
 directly into [Sidify Music Converter](https://www.sidify.com/en1/)
-to download them.
+to download them so you can complete the playlist.
 
 ## Requirements : 
 
