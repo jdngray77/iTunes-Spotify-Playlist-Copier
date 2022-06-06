@@ -42,8 +42,27 @@ to download them so you can complete the playlist.
 - Once complete, the script will provide a list of URL's to songs that were missing in your iTunes library.
   These song url's are automatically copied to the clipboard, and can be pasted into sidify to grab songs that you're missing.
 
-# Speed limit
+## Speed limit
   The Spotify API hard limits the script at 100 tracks, if the script operates too fast.
   
   For this reason, the scripts adds a one second delay between skipping songs 
   on playlists containing over 100 songs. 
+  
+  ## Example uses :
+  
+
+
+https://user-images.githubusercontent.com/50697488/172217400-22b7d94f-4428-47b4-a630-be8f6f5153a0.mov
+
+
+
+https://user-images.githubusercontent.com/50697488/172218003-b33812a5-173c-4fca-9c26-782a553ae4ae.mov
+
+
+
+
+  
+  
+  ## Sample log
+  ![Screen Shot 2022-06-06 at 18 46 39](https://user-images.githubusercontent.com/50697488/172216593-e2592b39-8b35-4fb5-85b5-f813d04c2374.png)
+  
